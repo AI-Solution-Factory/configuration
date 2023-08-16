@@ -1,5 +1,6 @@
 [ 
-  "barbie": {
+  {
+    "name": "barbie"
     "prompt": "barbie"
     "generator": "MID_JOURNEY"
   }
