@@ -2,6 +2,6 @@
   {
     "name": "barbie",
     "prompt": "barbie",
-    "generator": "MID_JOURNEY"
+    "generator": "STABLE_DIFFUSION"
   }
 ]
