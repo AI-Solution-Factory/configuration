@@ -1,0 +1,4 @@
+upstream balance1 {
+            server 127.0.0.1:4005 max_fails=1 fail_timeout=30s;
+            server 127.0.0.1:3000;
+        }
